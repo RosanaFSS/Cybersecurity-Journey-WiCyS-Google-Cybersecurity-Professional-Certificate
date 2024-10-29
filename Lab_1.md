@@ -4,8 +4,7 @@ Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/ro
 <h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
 Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating System.</h2>
 
-![image](https://github.com/user-attachments/assets/d86e5224-7b92-4c99-9968-83965ed799ff)
-
+![image](https://github.com/user-attachments/assets/26bcba5a-0b84-4f72-83e1-95dfa6a5c961)
 
 ![image](https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1)
 
