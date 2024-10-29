@@ -2,8 +2,8 @@
 <p>Welcome!<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
 <br>
-<p>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
-Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating System.</p>
+<h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
+Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating System.</h2>
 
 
 ![image](https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1)
