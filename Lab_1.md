@@ -121,6 +121,9 @@ analyst@7aee503cf643:~$
 
 <p>APT is already installed by default in the Linux Bash shell in this lab because this is a Debian-based system. APT is also the recommended package manager for Debian. If you’re using another distribution, a different package manager, such as YUM, may be available instead.</p>
 
+![image](https://github.com/user-attachments/assets/f3e8645e-193c-47de-8c5b-6286b00313c7)
+
+
 <h2>Task 2 - Install and uninstall the Suricata application</h2>
 <br>
 <p>In this task, you must install Suricata, a network analysis tool used for intrusion detection, and verify that it installed correctly. Then, you’ll uninstall the application.</p>
@@ -239,7 +242,8 @@ invoke-rc.d: policy-rc.d denied execution of stop.
 Processing triggers for man-db (2.8.5-2+deb10u1) ...
 </code></pre>
 
-<p>I completed the task successfully!!!</p>
+![image](https://github.com/user-attachments/assets/7988de3e-495d-4a7e-9390-accc4811a9ae)
+
 
 <pre><code>analyst@7aee503cf643:~$ suricata
 -bash: /usr/bin/suricata: No such file or directory
@@ -271,6 +275,9 @@ Preparing to unpack .../tcpdump_4.9.3-1~deb10u2_amd64.deb ...
 Unpacking tcpdump (4.9.3-1~deb10u2) ......................................Setting up tcpdump (4.9.3-1~deb10u2) .....................................Processing triggers for man-db (2.8.5-2+deb10u1) ...###...................
 analyst@7aee503cf643:~$ 
 </code></pre>
+
+![image](https://github.com/user-attachments/assets/a63a02df-6d2a-49dc-9b0e-2c406d232a9e)
+
 
 <h2>Task 4 - List the installed applications</h2>
 <br>
@@ -314,6 +321,9 @@ zlib1g/oldoldstable,now 1:1.2.11.dfsg-1+deb10u2 amd64 [installed,automatic]
 </code></pre>
 
 <p>I completed the task successfully!!!</p>
+
+![image](https://github.com/user-attachments/assets/94b647e9-6995-4795-b0eb-9a100b221f29)
+
 
 <h2>Task 5 -Reinstall the Suricata application</h2>
 <br>
@@ -375,6 +385,9 @@ zlib1g/oldoldstable,now 1:1.2.11.dfsg-1+deb10u2 amd64 [installed,automatic]
 </code></pre>
 
 <p>I completed the task successfully!!!</p>
+
+![image](https://github.com/user-attachments/assets/0a725398-ada5-482b-964b-b5b11d29f4ba)
+
 
 <h2>Conclusion</h2>
 <br>
