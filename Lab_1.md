@@ -28,7 +28,7 @@ Task 4. List the installed applications
 Task 5. Reinstall the Suricata application
 <br>
 
-<h2>Activity overviewd</h2>
+<h2>Activity overview</h2>
 <br>
 <p>In this lab activity, you’ll use the Advanced Package Tool (APT) and sudo to install and uninstall applications in a Linux Bash shell.<br>
 
