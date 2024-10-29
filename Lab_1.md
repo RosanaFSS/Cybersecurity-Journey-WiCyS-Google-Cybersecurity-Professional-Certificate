@@ -1,8 +1,7 @@
 <h1>Install software in a Linux distribution</h1 >
 <p>Welcome!<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
-<br>
-<h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
+<h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br><br>
 Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating System.</h2>
 
 
