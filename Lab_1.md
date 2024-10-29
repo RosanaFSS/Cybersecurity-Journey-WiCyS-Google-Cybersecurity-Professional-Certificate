@@ -25,6 +25,8 @@ Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating Syst
     <li>Task 3. Install the tcpdump application</li>
     <li>Task 4. List the installed applications</li>
     <li>Task 5. Reinstall the Suricata application</li>
+    <li>Conclusion</li>
+    <li>End Lab</li>
 </ul></p>
 
 
