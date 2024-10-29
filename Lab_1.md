@@ -403,7 +403,13 @@ You now have practical experience with the APT package manager. You learned to<<
 
 <p>Before you end the lab, make sure you’re satisfied that you’ve completed all the tasks, and follow these steps:</p>
 
-1. Click End Lab. A pop-up box will appear. Click Submit to confirm that you're done. Ending the lab will remove your access to the Bash shell. You won’t be able to access the work you've completed in it again.
-2. Another pop-up box will ask you to rate the lab and provide feedback comments. You can complete this if you choose to.
-3. Close the browser tab containing the lab to return to your course.
-4. Refresh the browser tab for the course to mark the lab as complete.
+<ol type="1. ">
+  <li>Click End Lab. A pop-up box will appear. Click Submit to confirm that you're done. Ending the lab will remove your access to the Bash shell. You won’t be able to access the work you've completed in it again.</li>
+  <li>Another pop-up box will ask you to rate the lab and provide feedback comments. You can complete this if you choose to.</li>
+  <li>Close the browser tab containing the lab to return to your course.</li>
+  <li>Refresh the browser tab for the course to mark the lab as complete.</li>
+</ol></p>
+
+
+   ![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
+
