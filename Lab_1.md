@@ -1,5 +1,4 @@
 <h1>Install software in a Linux distribution</h1 >
-<p>October 29, 2024<br></p>
 <p>Welcome!<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
 <br>
@@ -13,6 +12,8 @@ Module 2: The Linux Operating System.</p>
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
 ![image](https://github.com/user-attachments/assets/0457901d-cbf4-4cad-b871-5b14d8f85a09)
+
+<p>I completed it successfully on October 29, 2024.</p>
 
 ![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
 
