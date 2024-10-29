@@ -58,7 +58,7 @@ Here’s how you'll do this:
 
 <p><code>Disclaimer</code>: <em>For optimal performance and compatibility, it is recommended to use either <code>Google Chrome</code> or <code>Mozilla Firefox</code>code> browsers while accessing the labs.</em></p>
 
-<h2>Start your lab</h2>
+<h2>Start Lab</h2>
 <br>
 
 <p>You'll need to start the lab before you can access the materials. To do this, click the green “Start Lab” button at the top of the screen.</p>
