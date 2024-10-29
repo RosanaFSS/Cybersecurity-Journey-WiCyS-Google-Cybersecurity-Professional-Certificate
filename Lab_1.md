@@ -1,6 +1,5 @@
 <h1>Install software in a Linux distribution</h1 >
 <p>October 29, 2024<br></p>
-<br>
 <p>Welcome!<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
 
