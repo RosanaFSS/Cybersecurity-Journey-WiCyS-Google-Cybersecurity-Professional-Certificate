@@ -14,6 +14,8 @@ Module 2: The Linux Operating System.</p>
 
 ![image](https://github.com/user-attachments/assets/0457901d-cbf4-4cad-b871-5b14d8f85a09)
 
+![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
+
 
 <ul style="list-style-type:square">
     <li>Activity overview</li>
@@ -398,7 +400,7 @@ You now have practical experience with the APT package manager. You learned to<<
 - uninstall applications, and
 - list installed applications.
 
-<h2>End your Lab</h2>
+<h2>End Lab</h2>
 
 <p>Before you end the lab, make sure you’re satisfied that you’ve completed all the tasks, and follow these steps:</p>
 
@@ -408,7 +410,4 @@ You now have practical experience with the APT package manager. You learned to<<
   <li>Close the browser tab containing the lab to return to your course.</li>
   <li>Refresh the browser tab for the course to mark the lab as complete.</li>
 </ol></p>
-
-
-![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
 
