@@ -1,5 +1,4 @@
 <h1>Install software in a Linux distribution</h1 >
-<br>
 <p>October 29, 2024<br></p>
 <br>
 <p>Welcome!<br>
