@@ -15,15 +15,17 @@ Course 4: Tools of the Trade: Linux and SQL > <br>
 Module 2: The Linux Operating System.</p>
 
 
-Activity overview
-Scenario
-Start your lab
-Task 1. Ensure that APT is installed
-Task 2. Install and uninstall the Suricata application
-Task 3. Install the tcpdump application
-Task 4. List the installed applications
-Task 5. Reinstall the Suricata application
-<br>
+<ul style="list-style-type:square">
+    <li>Activity overview</li>
+    <li>Scenario</li>
+    <li>Start Lab</li>
+    <li>Task 1. Ensure that APT is installed</li>
+    <li>Task 2. Install and uninstall the Suricata application</li>
+    <li>Task 3. Install the tcpdump application</li>
+    <li>Task 4. List the installed applications</li>
+    <li>Task 5. Reinstall the Suricata application</li>
+</ul></p>
+
 
 <h2>Activity overview</h2>
 <br>
