@@ -1,9 +1,9 @@
-<h3> Welcome!</h3><br>
 <h1>Install software in a Linux distribution</h1 >
 <br>
 <p>October 29, 2024<br></p>
 <br>
-<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
+<p>Welcome!<br>
+Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
 
 ![image](https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1)
 
