@@ -2,21 +2,15 @@
 <h1>Install software in a Linux distribution</h1 >
 <br>
 <p>October 29, 2024<br></p>
+<br>
+<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
 
 ![image](https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1)
 
-<p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> > Course 4: Tools of the Trade: Linux and SQL > Module X: ------------.<br><br>
+![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
 
-experiment
-Lab
-schedule
-1 hour
-universal_currency_alt
-No cost
-show_chart
-Introductory
+<p>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> > Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating System.</p>p>
 
 
 Activity overview
