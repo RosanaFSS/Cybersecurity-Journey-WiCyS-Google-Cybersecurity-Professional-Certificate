@@ -3,7 +3,6 @@
 <br>
 <p>October 29, 2024<br></p>
 
-https://www.coursera.org/professional-certificates/google-cybersecurity
 
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> > Course 4: Tools of the Trade: Linux and SQL > Module X: ------------.<br><br>
