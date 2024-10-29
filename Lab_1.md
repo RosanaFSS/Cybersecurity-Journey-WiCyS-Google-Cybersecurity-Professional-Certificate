@@ -87,7 +87,7 @@ When installed, apt displays basic usage information when you run it. This inclu
 
 <p>I completed the task successfully!!!</p>
 
-<pre><code>analyst@7aee503cf643:~$ apt
+<pre><code> analyst@7aee503cf643:~$ apt
 apt 1.8.2.3 (amd64)
 Usage: apt [options] command
 
@@ -217,7 +217,7 @@ USAGE: suricata [OPTIONS] [BPF FILTER]
 <p>This message indicates that Suricata can't be found anymore.</p>
 
 
-<pre><code>sudo apt remove suricata
+<pre><code>$ sudo apt remove suricata
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
@@ -257,7 +257,7 @@ Processing triggers for man-db (2.8.5-2+deb10u1) ...
 
 <p>Type <code>sudo apt install tcpdump</code>code> after the command-line prompt and press ENTER.</p>
 
-<pre><code> sudo apt install tcpdump
+<pre><code>$ sudo apt install tcpdump
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
@@ -297,7 +297,7 @@ This produces a long list of applications because Linux has a lot of software in
 
 <code>Note</code>: <em>The specific version of tcpdump that you see displayed may be different from what is shown above.</em>
 
-<pre><code> apt list --installed
+<pre><code>$ apt list --installed
 Listing... Done
 adduser/oldoldstable,now 3.118 all [installed,automatic]
 apt/oldoldstable,oldoldstable-updates,now 1.8.2.3 amd64 [installed,automatic]
