@@ -13,7 +13,7 @@ Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating Syst
 ![image](https://github.com/user-attachments/assets/0457901d-cbf4-4cad-b871-5b14d8f85a09)
 
 <p>I completed it successfully on October 29, 2024.</p>
-<p>I thank WiCys for providing this opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
+<p>Thak you WiCys for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 ![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
 
