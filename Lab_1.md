@@ -16,6 +16,7 @@ Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating Syst
 ![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
 
 
+<p>This hands-on is composed by ten steps</p>
 <ul style="list-style-type:square">
     <li>Activity overview</li>
     <li>Scenario</li>
