@@ -10,9 +10,9 @@ This practice is part of the <a href="https://www.coursera.org/professional-cert
 
 Task 1 - Ensure that APT is installed
 Task 2 - Install and uninstall the Suricata application
-Task 3 - Install the tcpdumo application
+Task 3 - Install the tcpdump application
 Task 4 - List the installed applications
-Task 5 -Reinstall the Suricata application
+Task 5 - Reinstall the Suricata application
 <br>
 
 <h2>Task 1 - Ensure that APT is installed</h2>
