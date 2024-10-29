@@ -2,17 +2,17 @@
 <p>October 29, 2024<br></p>
 <p>Welcome!<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
+<br>
+<p>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
+Course 4: Tools of the Trade: Linux and SQL > <br>
+Module 2: The Linux Operating System.</p>
+
 
 ![image](https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1)
 
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
 ![image](https://github.com/user-attachments/assets/0457901d-cbf4-4cad-b871-5b14d8f85a09)
-
-
-<p>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
-Course 4: Tools of the Trade: Linux and SQL > <br>
-Module 2: The Linux Operating System.</p>
 
 
 <ul style="list-style-type:square">
