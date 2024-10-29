@@ -87,7 +87,8 @@ When installed, apt displays basic usage information when you run it. This inclu
 
 <p>I completed the task successfully!!!</p>
 
-<pre><code> analyst@7aee503cf643:~$ apt
+<pre><code> 
+analyst@7aee503cf643:~$ apt
 apt 1.8.2.3 (amd64)
 Usage: apt [options] command
 
@@ -130,7 +131,8 @@ analyst@7aee503cf643:~$
 <p>Use the APT package manager to install the Suricata application.</p>
 <p>Type <code>sudo apt install suricata</code> after the command-line prompt and press ENTER.</p>
 
-<pre><code>analyst@7aee503cf643:~$ sudo apt install suricata
+<pre><code>
+analyst@7aee503cf643:~$ sudo apt install suricata
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
@@ -345,7 +347,8 @@ Type apt list --installed after the command-line prompt and press ENTER.
 
 ![image](https://github.com/user-attachments/assets/e7873f5b-f397-4304-a47e-f452072870a9)
 
-<pre><code> sudo apt install suricata
+<pre><code>
+$ sudo apt install suricata
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
@@ -361,7 +364,8 @@ suricata is already the newest version (1:4.1.2-2+deb10u1).
 0 upgraded, 0 newly installed, 0 to remove and 59 not upgraded.
 </code></pre>
 
-<pre><code> apt list --installed
+<pre><code>
+$ apt list --installed
 Listing... Done
 adduser/oldoldstable,now 3.118 all [installed,automatic]
 apt/oldoldstable,oldoldstable-updates,now 1.8.2.3 amd64 [installed,automatic]
