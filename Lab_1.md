@@ -8,8 +8,8 @@
 This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> > Course 4: Tools of the Trade: Linux and SQL > Module X: ------------.<br><br>
 
 
-<h2>Task 1 - Ensure that APT is installed</h2>
-<h2>Task 2 - Install and uninstall the Suricata application</h2>
+Task 1 - Ensure that APT is installed
+Task 2 - Install and uninstall the Suricata application
 
 <h2>Task 1 - Ensure that APT is installed</h2>
 <p>First, you’ll check that the APT application is installed so that you can use it to manage applications. The simplest way to do this is to run the apt command in the Bash shell and check the response.<br>
@@ -50,7 +50,6 @@ Package and version choices can be expressed via apt_preferences(5).
 Security details are available in apt-secure(8).
                                         This APT has Super Cow Powers.
 analyst@7aee503cf643:~$ 
-
 </code></pre>
 
 <p>APT is already installed by default in the Linux Bash shell in this lab because this is a Debian-based system. APT is also the recommended package manager for Debian. If you’re using another distribution, a different package manager, such as YUM, may be available instead.</p>
@@ -69,6 +68,52 @@ The Suricata application can take a few minutes to install.</p>
 When prompted to continue, press the <strong>ENTER</strong> key to respond with the default response. (In this case, the default response is <strong>Yes</strong>.)</p>
 
 > Verify that Suricata is installed by running the newly installed application.
+
+
+<pre><code>analyst@7aee503cf643:~$ sudo apt install suricata
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following additional packages will be installed:
+  geoip-database libauthen-sasl-perl libdata-dump-perl
+  libencode-locale-perl libevent-2.1-6 libevent-core-2.1-6
+  libevent-pthreads-2.1-6 libfile-listing-perl libfont-afm-perl
+  libgeoip1 libhiredis0.14 libhtml-form-perl libhtml-format-perl
+  libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhtp2
+  libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl
+  libhttp-message-perl libhttp-negotiate-perl libhyperscan5
+  libio-html-perl libio-socket-ssl-perl libjansson4 libltdl7
+  libluajit-5.1-2 libluajit-5.1-common liblwp-mediatypes-perl
+  liblwp-protocol-https-perl libmailtools-perl libnet-http-perl
+  libnet-smtp-ssl-perl libnet-ssleay-perl libnet1 libnetfilter-log1
+  libnetfilter-queue1 libnfnetlink0 libnspr4 libnss3 libpcap0.8
+  libprelude23 libpython-stdlib libpython2-stdlib libpython2.7-minimal
+  libpython2.7-stdlib libtimedate-perl libtry-tiny-perl liburi-perl
+  libwww-perl libwww-robotrules-perl libyaml-0-2 oinkmaster
+  perl-openssl-defaults prelude-utils python python-minimal
+  python-simplejson python2 python2-minimal python2.7
+  python2.7-minimal snort-rules-default suricata-oinkmaster
+  Suggested packages:
+  libdigest-hmac-perl libgssapi-perl geoip-bin libcrypt-ssleay-perl
+  libauthen-ntlm-perl python-doc python-tk python2-doc python2.7-doc
+  binfmt-support snort | snort-pgsql | snort-mysql
+  libtcmalloc-minimal4
+  The following NEW packages will be installed:
+  ...
+  0 upgraded, 66 newly installed, 0 to remove and 59 not upgraded.
+  Need to get 16.8 MB of archives.
+  After this operation, 62.6 MB of additional disk space will be used.
+  Do you want to continue? [Y/n] Y
+  Get:1 http://deb.debian.org/debian-security buster/updates/main amd64 libpython2.7-minimal amd64 2.7.16-2+deb10u4 [396 kB]
+  Get:2 http://deb.debian.org/debian-security buster/updates/main amd64 python2.7-minimal amd64 2.7.16-2+deb10u4 [1367 kB]
+  ...
+  Get:65 http://deb.debian.org/debian-security buster/updates/main amd64 snort-rules-default all 2.9.20-0+deb10u1 [374 kB]
+  Get:66 http://deb.debian.org/debian buster/main amd64 suricata-oinkmaster all 1:4.1.2-2+deb10u1 [38.5 kB]
+  Fetched 16.8 MB in 1s (33.2 MB/s)           
+  debconf: delaying package configuration, since apt-utils is not installed
+  analyst@7aee503cf643:~$ 
+</code></pre>
+
 
 
 
