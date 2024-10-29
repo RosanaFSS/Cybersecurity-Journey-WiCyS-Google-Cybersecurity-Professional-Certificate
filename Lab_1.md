@@ -1,6 +1,6 @@
 <h1>Install software in a Linux distribution</h1 >
-<p>I completed this hands-on successfully on October 29, 2024.</p>
-<p>Thak you WiCys for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
+<p>I completed this hands-on successfully on October 29, 2024.<br>
+Thank you WiCys for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 <h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> ><br>
 Course 4: Tools of the Trade: Linux and SQL > Module 2: The Linux Operating System.</h2>
