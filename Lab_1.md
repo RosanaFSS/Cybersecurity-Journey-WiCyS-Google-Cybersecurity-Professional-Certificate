@@ -3,6 +3,7 @@
 <br>
 <p>October 29, 2024<br></p>
 
+![image](https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1)
 
 <p>Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> > Course 4: Tools of the Trade: Linux and SQL > Module X: ------------.<br><br>
@@ -84,8 +85,6 @@ The Bash shell is the command-line interpreter currently open on the left side o
 When installed, apt displays basic usage information when you run it. This includes the version information and a description of the tool:
 
 ![image](https://github.com/user-attachments/assets/7ae857bb-337c-4e89-820a-b6e22bef9586)
-
-<p>I completed the task successfully!!!</p>
 
 <pre><code> 
 analyst@7aee503cf643:~$ apt
@@ -218,7 +217,6 @@ USAGE: suricata [OPTIONS] [BPF FILTER]
 
 <p>This message indicates that Suricata can't be found anymore.</p>
 
-
 <pre><code>$ sudo apt remove suricata
 Reading package lists... Done
 Building dependency tree       
@@ -247,7 +245,8 @@ Processing triggers for man-db (2.8.5-2+deb10u1) ...
 ![image](https://github.com/user-attachments/assets/7988de3e-495d-4a7e-9390-accc4811a9ae)
 
 
-<pre><code>analyst@7aee503cf643:~$ suricata
+<pre><code>
+analyst@7aee503cf643:~$ suricata
 -bash: /usr/bin/suricata: No such file or directory
 </code></pre>
 
@@ -322,8 +321,6 @@ xz-utils/oldoldstable,oldoldstable,now 5.2.4-1+deb10u1 amd64 [installed,automati
 zlib1g/oldoldstable,now 1:1.2.11.dfsg-1+deb10u2 amd64 [installed,automatic]
 </code></pre>
 
-<p>I completed the task successfully!!!</p>
-
 ![image](https://github.com/user-attachments/assets/94b647e9-6995-4795-b0eb-9a100b221f29)
 
 
@@ -356,7 +353,8 @@ suricata is already the newest version (1:4.1.2-2+deb10u1).
 0 upgraded, 0 newly installed, 0 to remove and 59 not upgraded.
 </code></pre>
 
-<pre><code> sudo apt install suricata
+<pre><code>
+$ sudo apt install suricata
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
@@ -388,7 +386,6 @@ xz-utils/oldoldstable,oldoldstable,now 5.2.4-1+deb10u1 amd64 [installed,automati
 zlib1g/oldoldstable,now 1:1.2.11.dfsg-1+deb10u2 amd64 [installed,automatic]
 </code></pre>
 
-<p>I completed the task successfully!!!</p>
 
 ![image](https://github.com/user-attachments/assets/0a725398-ada5-482b-964b-b5b11d29f4ba)
 
@@ -415,5 +412,5 @@ You now have practical experience with the APT package manager. You learned to<<
 </ol></p>
 
 
-   ![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
+![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
 
