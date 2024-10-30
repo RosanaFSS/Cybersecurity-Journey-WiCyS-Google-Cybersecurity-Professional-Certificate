@@ -11,11 +11,6 @@ It is sponsored by WiCyS.</h2>
 
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
-![image](https://github.com/user-attachments/assets/0457901d-cbf4-4cad-b871-5b14d8f85a09)
-
-
-<h2>The first with my personal account, active since January 2023.<br>
-
 Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
 
 https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
