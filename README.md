@@ -1,10 +1,6 @@
 <h1>WiCyS Google Cybersecurity Professional Certificate</h1>
-<br>
-<p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2>
 
-<h1>Install software in a Linux distribution</h1 >
-<p>I completed this hands-on successfully on October 29, 2024.<br>
-Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
+<p>Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 <h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cyberseucity journey. It is sponsored by WiCyS.<br>
 
