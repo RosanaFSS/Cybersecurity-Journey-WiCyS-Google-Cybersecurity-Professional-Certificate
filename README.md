@@ -1,8 +1,9 @@
 <h1>WiCyS Google Cybersecurity Professional Certificate</h1>
 
-<p>Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
+<h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cyberseucity journey.<br>
+It is sponsored by WiCyS.<br>
 
-<h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cyberseucity journey. It is sponsored by WiCyS.<br>
+<p>Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 ![image](https://github.com/user-attachments/assets/35be29fe-d432-4abc-b2c9-4068da30b7d6)
 
