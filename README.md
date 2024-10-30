@@ -1,4 +1,4 @@
-<h1>WiCyS Goofle Cybersecurity Proessional Certificate</h1>
+<h1>WiCyS Google Cybersecurity Professional Certificate</h1>
 <br>
 <p><h2> I share my accomplishments on  <a href="https://tryhackme.com/">TryHackMe</a> through 2 engagements: </h2>
 
