@@ -3,7 +3,7 @@
 <h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.<br>
 It is sponsored by WiCyS.</h2>
 
-<p>Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
+<p>Thank you WiCyS for providing this valuable opportunity to me. <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 ![image](https://github.com/user-attachments/assets/35be29fe-d432-4abc-b2c9-4068da30b7d6)
 
