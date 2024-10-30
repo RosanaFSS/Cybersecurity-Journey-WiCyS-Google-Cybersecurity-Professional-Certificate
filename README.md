@@ -1,7 +1,7 @@
 <h1>WiCyS Google Cybersecurity Professional Certificate</h1>
 
-<h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cyberseucity journey.<br>
-It is sponsored by WiCyS.<br>
+<h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.<br>
+It is sponsored by WiCyS.</h2>
 
 <p>Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
