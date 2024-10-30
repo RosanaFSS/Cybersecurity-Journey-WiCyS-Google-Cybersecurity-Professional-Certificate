@@ -13,11 +13,6 @@ It is sponsored by WiCyS.</h2>
 
 ![image](https://github.com/user-attachments/assets/0457901d-cbf4-4cad-b871-5b14d8f85a09)
 
-<p>Welcome!<br>
-Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.</p>
-
-![image](https://github.com/user-attachments/assets/6946b554-386c-4f29-afc1-0ae8dd31bb2c)
-
 
 <h2>The first with my personal account, active since January 2023.<br>
 
