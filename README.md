@@ -1,6 +1,6 @@
 <h1 align="center"> $$\textcolor{white}{\textnormal{WiCyS Google Cybersecurity Professional Certificate}}$$ </h1>
-<h4 align="center"> $$\textcolor{white}{\textnormal{Thank you WiCyS for providing this valuable opportunity to me.}}$$ </h4>
-<h4 align="center"> $$\textcolor{white}{\textnormal{Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.}}$$ </h4>
+<h4 align="center"> $$\textcolor{white}{\textnormal{Thank you WiCyS for providing this valuable opportunity to me.}}$$ <br>
+ $$\textcolor{white}{\textnormal{Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.}}$$ </h4>
 
 
 <h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.<br>
