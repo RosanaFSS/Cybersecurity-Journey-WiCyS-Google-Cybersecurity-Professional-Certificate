@@ -13,10 +13,10 @@ It is sponsored by WiCyS.</h2>
 
   
 | Course                                             | Order       | Completion Date     | Certificate                                                         |                             
-| :------------------------------------------------: | :---------- | :------------------ | :-----------------------------------------------------------------: |
+| :------------------------------------------------- | :---------- | :------------------ | :-----------------------------------------------------------------: |
 | Foundations of Cybersecurity                       | Course 1    | July 9, 2023        | <img src="https://coursera.org/share/efa1234c6da26afcdf4ff8ad6c67289d" style="width:280px;"/> |
 | Play It Safe: Manage Security Risks                | Course 2    | July 3, 2024        | <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XTVLR1W5WS.png" style="width:280px;"/> |
-| Connect and Protect: Networks and Network Security |Course 3     | July 17, 2024       | 
+| Connect and Protect: Networks and Network Security | Course 3    | July 17, 2024       | 
 | Tools of the Trade: Linux and SQL                  | Course 4    | October 7, 2024     |
 | Assets, Threats, and Vulnerabilities               | Course 5    | September 5, 2024   |
 | Sound the Alarm: Detection and Response            | Course 6    | June 8, 2024        |
