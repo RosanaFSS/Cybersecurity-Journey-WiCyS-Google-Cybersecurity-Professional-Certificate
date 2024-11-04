@@ -11,8 +11,6 @@ It is sponsored by WiCyS.</h2>
 
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
-![image](https://github.com/user-attachments/assets/707ef86e-ec5a-40b4-893e-b85f7e266715)
-
   
 | Course                                                 | Completion Date     | Certificate                                                                                         |  
 | :----------------------------------------------------- | ------------------: | :-------------------------------------------------------------------------------------------------: |
