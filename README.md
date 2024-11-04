@@ -11,12 +11,15 @@ It is sponsored by WiCyS.</h2>
 
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
+![image](https://github.com/user-attachments/assets/707ef86e-ec5a-40b4-893e-b85f7e266715)
+
+
   
 | Course                                                 | Completion Date     | Certificate                                                                                         |  
 | :----------------------------------------------------- | ------------------: | :-------------------------------------------------------------------------------------------------: |
-| 1.  Foundations of Cybersecurity                       | July 9, 2023        | <img src="https://github.com/user-attachments/assets/bed9c780-d92b-4702-9a89-d4aeca783554" style="width:350px;"/> |
-| 2.  Play It Safe: Manage Security Risks                | June 28, 2024       | <img src="https://github.com/user-attachments/assets/4cedb6a7-b620-4ffa-9bdf-2bb842bd20a4" style="width:350px;"/> |
-| 3.  Connect and Protect: Networks and Network Security | July 17, 2024       | 
+| 1.  Foundations of Cybersecurity                       | July 9, 2023        | <img src="https://github.com/user-attachments/assets/bed9c780-d92b-4702-9a89-d4aeca783554" style="width:300px;"/> |
+| 2.  Play It Safe: Manage Security Risks                | June 28, 2024       | <img src="https://github.com/user-attachments/assets/4cedb6a7-b620-4ffa-9bdf-2bb842bd20a4" style="width:300px;"/> |
+| 3.  Connect and Protect: Networks and Network Security | August 11, 2024     | <img src="(https://github.com/user-attachments/assets/707ef86e-ec5a-40b4-893e-b85f7e266715" style="width:300px;"/> |
 | 4.  Tools of the Trade: Linux and SQL                  | October 7, 2024     |
 | 5.  Assets, Threats, and Vulnerabilities               | September 5, 2024   |
 | 6.  Sound the Alarm: Detection and Response            | June 8, 2024        |
