@@ -6,9 +6,8 @@ It is sponsored by WiCyS.</h2>
 <p>Thank you WiCyS for providing this valuable opportunity to me. <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 <p align="center"> <img width="450px" src="https://github.com/user-attachments/assets/35be29fe-d432-4abc-b2c9-4068da30b7d6"> <br>
-                   <img width="450px" src="https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1"> </p>
-
-![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
+                   <img width="450px" src="https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1"> <br>
+                   <img width="450px" src="https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce17371"> </p>
 
 <div align="center">
   
