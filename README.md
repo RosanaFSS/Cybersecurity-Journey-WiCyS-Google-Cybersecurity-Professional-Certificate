@@ -1,9 +1,12 @@
-<h1>WiCyS Google Cybersecurity Professional Certificate</h1>
+<h1 align="center"> $$\textcolor{white}{\textnormal{WiCyS Google Cybersecurity Professional Certificate}}$$ </h1>
+<h4 align="center"> $$\textcolor{white}{\textnormal{Thank you WiCyS for providing this valuable opportunity to me.}}$$ </h4>
+<h4 align="center"> $$\textcolor{white}{\textnormal{Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.}}$$ </h4>
+
 
 <h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.<br>
 It is sponsored by WiCyS.</h2>
 
-<p>Thank you WiCyS for providing this valuable opportunity to me. <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
+<a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 <p align="center"> <img width="450px" src="https://github.com/user-attachments/assets/35be29fe-d432-4abc-b2c9-4068da30b7d6"> <br>
                    <img width="450px" src="https://github.com/user-attachments/assets/8b79c0cd-1328-49ad-99cd-f269b347afb1"> <br>
