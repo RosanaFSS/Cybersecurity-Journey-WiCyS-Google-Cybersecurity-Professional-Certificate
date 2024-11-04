@@ -3,9 +3,7 @@
  $$\textcolor{white}{\textnormal{Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.}}$$ </h4>
 
 
-<h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a> is part of my Cybersecurity journey.<br>
-It is sponsored by WiCyS.</h2>
-
+<h2><a href="https://www.coursera.org/professional-certificates/google-cybersecurity">Google Cybersecurity Professional Certificate</a></h2>h2>
 <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
 <p align="center"> <img width="450px" src="https://github.com/user-attachments/assets/35be29fe-d432-4abc-b2c9-4068da30b7d6"> <br>
