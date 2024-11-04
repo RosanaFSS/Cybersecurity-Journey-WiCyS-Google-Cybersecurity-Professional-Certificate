@@ -11,9 +11,6 @@ It is sponsored by WiCyS.</h2>
 
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
-Click <a href="https://tryhackme.com/p/Rosana">here</a> to know about my accomplishments in TryHackMe.</h2>
-
-https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SM811IJLKA.png
   
 | Course                | Order           | Completion Date     | Certificate |                             
 | :-----------------------------------------: | :--------------------------- | :--------------- | :------------------ |  :-----------------------------------------: |
