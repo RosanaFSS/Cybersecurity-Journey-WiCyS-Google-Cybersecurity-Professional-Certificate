@@ -11,6 +11,7 @@ It is sponsored by WiCyS.</h2>
 
 ![image](https://github.com/user-attachments/assets/ae596469-d435-4154-a226-9369d0ce1737)
 
+<div align="center">
   
 | Course                                                 | Completion Date     | Certificate                                                                                         |  
 | :----------------------------------------------------- | ------------------: | :-------------------------------------------------------------------------------------------------: |
@@ -22,3 +23,5 @@ It is sponsored by WiCyS.</h2>
 | 6.  Sound the Alarm: Detection and Response            |                     |                                                               |
 | 7.  Automate Cybersecurity Tasks with Python           |                     |                                                               |
 | 8.  Put It to Work: Prepare for Cybersecurity Jobs     | August 4, 2024      | <img src="https://github.com/user-attachments/assets/3feba72a-7969-4f01-9908-ca1b7d2e93f1" style="width:300px;"/> |
+
+</div>
