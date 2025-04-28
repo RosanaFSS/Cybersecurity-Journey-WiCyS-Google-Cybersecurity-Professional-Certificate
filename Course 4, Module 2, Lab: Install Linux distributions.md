@@ -2,7 +2,7 @@
 <p>I completed this hands-on successfully on October 29, 2024.<br>
 Thank you WiCyS for providing this valuable opportunity: <a href="https://www.wicys.org/benefits/google-cybersecurity-certificate-program/">WiCyS Google Cybersecurity Program</a>.</p>
 
-<h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">WiCyS Google Cybersecurity Professional Certificate</a> ><br>
+<h2>This practice is part of the <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">WiCyS Google Cybersecurity Professional Certificate</a><br><br>
 Course 4: Tools of the Trade: Linux and SQL<br>
 Module 2: The Linux Operating System.</h2>
 
