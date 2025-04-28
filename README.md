@@ -1,4 +1,4 @@
-<h1><<bold>WiCyS</bold> Google Cybersecurity Professional Certificate</h1>
+<h1><bold>WiCyS</bold> Google Cybersecurity Professional Certificate</h1>
 <br>
 
 <br>
